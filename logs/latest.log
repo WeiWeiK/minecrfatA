@@ -1,0 +1,86 @@
+[15:52:12] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:52:14] [ServerMain/INFO]: Loaded 7 recipes
+[15:52:16] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[15:52:16] [Server thread/INFO]: Loading properties
+[15:52:16] [Server thread/INFO]: This server is running Paper version git-Paper-501 (MC: 1.19.4) (Implementing API version 1.19.4-R0.1-SNAPSHOT) (Git: 9cda284)
+[15:52:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:52:16] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:52:16] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[15:52:16] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[15:52:16] [Server thread/INFO]: Default game type: SURVIVAL
+[15:52:16] [Server thread/INFO]: Generating keypair
+[15:52:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:52:16] [Server thread/INFO]: Using default channel type
+[15:52:16] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[15:52:16] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[15:52:17] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.71
+[15:52:17] [Server thread/INFO]: [DiscordSRV] Loading server plugin DiscordSRV v1.26.2
+[15:52:17] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:52:17] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.71
+[15:52:18] [Server thread/INFO]:         __    
+[15:52:18] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.71
+[15:52:18] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[15:52:18] [Server thread/INFO]: 
+[15:52:18] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[15:52:18] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[15:52:19] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[15:52:19] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[15:52:19] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1536ms)
+[15:52:19] [Server thread/INFO]: Preparing level "World"
+[15:52:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:52:20] [Server thread/INFO]: Time elapsed: 118 ms
+[15:52:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:52:20] [Server thread/INFO]: Time elapsed: 26 ms
+[15:52:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:52:20] [Server thread/INFO]: Time elapsed: 17 ms
+[15:52:20] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.26.2
+[15:52:20] [Server thread/INFO]: Running delayed init tasks
+[15:52:20] [Server thread/INFO]: Done (4.449s)! For help, type "help"
+[15:52:20] [Server thread/INFO]: Timings Reset
+[15:52:23] [DiscordSRV - Initialization/INFO]: [DiscordSRV] [JDA] Login Successful!
+[15:52:23] [pool-14-thread-1/INFO]: [DiscordSRV] DiscordSRV is up-to-date. (767828469573c2f0fa3ed5a44feb0b2f15f2c02d)
+[15:52:23] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
+[15:52:24] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Finished Loading!
+[15:52:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] 已找到伺服器 G:紀家最愛的耕田小窩(1095291888392740894)
+[15:52:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:info-置頂(1095371800298397716)
+[15:52:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:座標(1095347872209305700)
+[15:52:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:遊戲同步(1095292074116522005)
+[15:52:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:聊天室(1095291888392740897)
+[15:52:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:commands(1095297876638314526)
+[15:52:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] 控制台轉送已指派至頻道 TC:commands(1095297876638314526)
+[15:52:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] 啟用鉤取 LuckPerms
+[15:52:25] [DiscordSRV - JDA Callback 0/INFO]: [DiscordSRV] Cleared all pre-existing slash commands in 1/1 guilds (0 cancelled)
+[15:52:51] [Server thread/INFO]: Stopping server
+[15:52:51] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.26.2
+[15:52:51] [DiscordSRV - Shutdown/INFO]: [DiscordSRV] 已儲存已連結帳號，耗時8ms
+[15:52:52] [DiscordSRV - Shutdown/INFO]: [DiscordSRV] 伺服器已關閉，耗時668ms
+[15:52:52] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.71
+[15:52:52] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[15:52:52] [Server thread/INFO]: [LuckPerms] Closing storage...
+[15:52:52] [Server thread/INFO]: [LuckPerms] Goodbye!
+[15:52:52] [Server thread/INFO]: Saving players
+[15:52:52] [Server thread/INFO]: Saving worlds
+[15:52:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[World]'/minecraft:overworld
+[15:52:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'World'
+[15:52:52] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'World'
+[15:52:52] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'World'
+[15:52:53] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'World' in 1.20s
+[15:52:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (World): All chunks are saved
+[15:52:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[World_nether]'/minecraft:the_nether
+[15:52:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'World_nether'
+[15:52:54] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'World_nether'
+[15:52:54] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'World_nether'
+[15:52:54] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'World_nether' in 0.89s
+[15:52:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:52:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[World_the_end]'/minecraft:the_end
+[15:52:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'World_the_end'
+[15:52:55] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'World_the_end'
+[15:52:55] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'World_the_end'
+[15:52:55] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'World_the_end' in 0.35s
+[15:52:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:52:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:52:55] [Server thread/INFO]: Flushing Chunk IO
+[15:52:55] [Server thread/INFO]: Closing Thread Pool
+[15:52:55] [Server thread/INFO]: Closing Server
